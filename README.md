@@ -154,11 +154,11 @@ Diminta membuat database dengan 3 tabel, kemudian gabungkan 3 tabel tersebut den
 
 Diminta membuat website dengan tampilan seperti pada <https://www.figma.com/proto/5vO33YdM2KljNPpkvmGw0S/POS-App-Test?node-id=1%3A2&scaling=scale-down>. Untuk membuka website yang sudah saya buat, clone atau download repo ini kemudian buka `index.html` di folder `6A`. Berikut screenshot tampilan website:
 
-![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Web6B-1.png "Screenshot Website")
 
-![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Web6B-2.png "Screenshot Website")
 
-![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Web6B-3.png "Screenshot Website")
 
-![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Web6B-4.png "Screenshot Website")
 
