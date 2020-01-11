@@ -9,7 +9,7 @@ Jawaban dan Project untuk seleksi bootcamp dari Arkademy Batch 14-3. Ada 5 soal 
     - [Soal 3](#Soal-3)
     - [Soal 4](#Soal-4)
     - [Soal 5](#Soal-5)
-- [Soal 6](#Soal-6)
+- [Soal 6](#Soal-6-(Project))
     - [Soal 6A](#Soal-6A)
     - [Soal 6B](#Soal-6B)
     - [Soal 6C](#Soal-6C)
@@ -144,4 +144,21 @@ Diberikan 3 buah project, yaitu:
 - 6B - tampilan website statis, dan 
 - 6c - website dinamis dengan database
 
-Readme.MD akan dilanjutkan nanti, commit dulu...
+### Soal 6A
+
+Diminta membuat database dengan 3 tabel, kemudian gabungkan 3 tabel tersebut dengan SQL query. Database dan query yang diminta sudah disimpan dalam folder `6A`. Berikut Screenshot hasilnya:
+
+![Screenshot SQL query](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot SQL query")
+
+### Soal 6B
+
+Diminta membuat website dengan tampilan seperti pada <https://www.figma.com/proto/5vO33YdM2KljNPpkvmGw0S/POS-App-Test?node-id=1%3A2&scaling=scale-down>. Untuk membuka website yang sudah saya buat, clone atau download repo ini kemudian buka `index.html` di folder `6A`. Berikut screenshot tampilan website:
+
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+
+![Screenshot Website](https://github.com/ChristopherAT99/Seleksi-Bootcamp-Arkademy-Batch-14-Kloter-3/blob/master/Gambar/SS-Query.png "Screenshot Website")
+
