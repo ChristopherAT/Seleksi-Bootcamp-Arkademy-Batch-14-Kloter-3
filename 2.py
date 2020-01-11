@@ -1,9 +1,9 @@
 import re
 def usernameValidity(username):
-    format = r'[a-z][\w]{4,11}'
+    format = r'^[a-z][\w]{4,11}'
     # format regex: [a-z]  diawali huruf kecil 
     #               [\w]   tidak menggunakan special character kecuali unedrscore
-    #               {4,14} repitisi format diatas, min 4 karakter 
+    #               {4,11} repitisi format diatas, min 4 karakter 
     #                      dan max 14 karakter
     return bool(re.fullmatch(format,username))
 def passwordValidity(password):
@@ -19,7 +19,3 @@ def passwordValidity(password):
           # 1 simbol, 1 angka dan 5 huruf besar
           return True
     return False
-
-    
-    
-
